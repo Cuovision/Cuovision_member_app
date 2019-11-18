@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CuovisionのメンバーポートフォリオAppのソースコードです。
 
-Things you may want to cover:
 
-* Ruby version
+* バージョン
+Ruby: 2.6.3
+Rails: 5.2.3
+MySQL: 5.7系
 
-* System dependencies
+Cloneしたらやるべきこと。
 
-* Configuration
+基本的にSlackで説明しています！
+質問あればSlack名「ミヤザキヨシキ」まで！
 
-* Database creation
+タスクはTrelloで公開しています。Trelloのアカウントを持っていない方はアカウントの取得をお願いします。
 
-* Database initialization
+アカウントを取得したらSlack名「ミヤザキヨシキ」にTrelloアカウントを作成する際に使用したメールアドレスを送ってください。チームに招待をします。
 
-* How to run the test suite
+* GitHubを使用するときのルール
 
-* Services (job queues, cache servers, search engines, etc.)
+1, masterに直接コミットしない。
+2, Trelloで管理してるタスク一つごとにコミットする。
+3, プルリクエストを送信し、第三者に変更箇所を見てもらう。
+4, アプリのバグを発見したら、issueに書いておく。
 
-* Deployment instructions
-
-* ...
+ルールは気付き次第追加していきます。
+READMEをしっかり読んでおくようにしてください。
